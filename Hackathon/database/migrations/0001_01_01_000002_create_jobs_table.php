@@ -1,4 +1,3 @@
--- Active: 1740566952500@@127.0.0.1@3306@hackathon
 <?php
 
 use Illuminate\Database\Migrations\Migration;
